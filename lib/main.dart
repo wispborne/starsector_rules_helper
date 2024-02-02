@@ -6,7 +6,7 @@ import 'package:starsector_rules_helper/utils.dart';
 import 'package:window_size/window_size.dart';
 
 const version = "0.0.1";
-const appTitle = "Rules Helper v$version";
+const appTitle = "Rules Reloader v$version";
 
 void main() {
   runApp(const MyApp());

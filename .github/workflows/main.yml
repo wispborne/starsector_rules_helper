@@ -12,7 +12,7 @@ env:
   flutter_channel: "beta" # or: 'stable' or 'dev' or 'beta'
   #flutter_version: '2.2.2'
   macos_path: "build/macos/Build/Products/Release/RulesReloader.app"
-  windows_path: "build/windows/runner/Release/*"
+  windows_path: "build/windows/x64/runner/Release/*"
 #  linux_path: "build/linux/runner/Release/*"
 
 jobs:
